@@ -1,0 +1,7 @@
+langchain-community
+langchain-core
+openai
+opencv-python
+pillow
+pytube
+together==1.1.5
